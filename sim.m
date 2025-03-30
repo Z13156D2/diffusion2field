@@ -6,12 +6,6 @@
 %  subsequently be processed to yield the image. The data for the
 %  scatteres are read from the file pht_data.mat, so that the procedure
 %  can be started again or run for a number of workstations.
-%
-%  Example by Joergen Arendt Jensen and Peter Munk, 
-%  Version 1.1, April 1, 1998, JAJ.
-
-%  Ver. 1.1: 1/4-98: Procedure xdc_focus_center inserted to use the new
-%                    focusing scheme for the Field II program
 
 %  Generate the transducer apertures for send and receive
 
