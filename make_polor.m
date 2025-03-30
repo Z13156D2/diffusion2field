@@ -1,8 +1,5 @@
 %  Make the image interpolation for the polar scan
 %
-%  Version 1.0, 17/2-99 JAJ
-%  Version 1.1, 16/8-2007 JAJ
-%    Small changes in compression
 
 %  Set initial parameters
 
